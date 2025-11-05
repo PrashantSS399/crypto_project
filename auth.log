@@ -1,0 +1,70 @@
+2025-11-03 16:12:33,723 [INFO] Logger initialised.
+2025-11-03 16:14:15,067 [INFO] Logger initialised.
+2025-11-03 16:15:42,014 [INFO] Logger initialised.
+2025-11-03 16:16:29,091 [INFO] Logger initialised.
+2025-11-03 21:24:51,237 [INFO] Logger initialised.
+2025-11-03 21:25:52,476 [INFO] Logger initialised.
+2025-11-03 21:25:56,780 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-03 21:25:56,782 [INFO] System initialised using MongoDB backend.
+2025-11-03 21:26:03,996 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-03 21:30:44,268 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-03 21:30:44,270 [INFO] System initialised using MongoDB backend.
+2025-11-03 21:31:26,362 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-03 21:31:26,747 [INFO] User 'alice@example.com' registered with scrypt.
+2025-11-03 21:31:27,036 [INFO] User 'bob@example.com' registered with pbkdf2.
+2025-11-03 21:31:27,396 [WARNING] Failed to register 'alice@example.com': Email already exists
+2025-11-03 21:31:27,767 [INFO] Login successful for alice@example.com using scrypt.
+2025-11-03 21:31:28,147 [WARNING] Login failed for alice@example.com: wrong password.
+2025-11-03 21:31:28,149 [WARNING] Login failed for charlie@example.com: User not found.
+2025-11-03 21:31:28,157 [INFO] Listed 2 users.
+2025-11-03 21:46:37,071 [INFO] Logger initialised.
+2025-11-03 21:46:40,146 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-03 21:46:40,150 [INFO] System initialised using MongoDB backend.
+2025-11-03 22:35:14,227 [INFO] Logger initialised.
+2025-11-03 22:35:18,474 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-03 22:35:18,480 [INFO] System initialised using MongoDB backend.
+2025-11-03 22:35:41,928 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-03 22:39:03,002 [INFO] User 'prashant.shekhar2022@vitstudent.ac.in' registered with scrypt.
+2025-11-03 22:39:41,982 [INFO] User 'shivani.pandey2022@vitstudent.ac.in' registered with pbkdf2.
+2025-11-03 22:40:06,272 [INFO] Listed 2 users.
+2025-11-03 22:41:25,694 [INFO] Listed 2 users.
+2025-11-03 22:45:06,890 [INFO] User 'prashantshri399@gmail.com' registered with scrypt.
+2025-11-03 22:45:52,445 [INFO] Listed 3 users.
+2025-11-03 22:48:07,835 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-03 22:48:08,227 [INFO] User 'alice@example.com' registered with scrypt.
+2025-11-03 22:48:08,519 [INFO] User 'bob@example.com' registered with pbkdf2.
+2025-11-03 22:48:08,937 [WARNING] Failed to register 'alice@example.com': Email already exists
+2025-11-03 22:48:09,345 [INFO] Login successful for alice@example.com using scrypt.
+2025-11-03 22:48:09,737 [WARNING] Login failed for alice@example.com: wrong password.
+2025-11-03 22:48:09,740 [WARNING] Login failed for charlie@example.com: User not found.
+2025-11-03 22:48:10,106 [INFO] User 'long@example.com' registered with scrypt.
+2025-11-03 22:48:10,465 [INFO] Login successful for long@example.com using scrypt.
+2025-11-03 22:48:10,821 [INFO] User 'empty@example.com' registered with scrypt.
+2025-11-03 22:48:10,826 [INFO] Listed 4 users.
+2025-11-03 23:05:43,729 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-03 23:05:44,087 [INFO] User 'alice@example.com' registered with scrypt.
+2025-11-03 23:05:44,381 [INFO] User 'bob@example.com' registered with pbkdf2.
+2025-11-03 23:05:44,756 [WARNING] Failed to register 'alice@example.com': Email already exists
+2025-11-03 23:05:45,098 [INFO] Login successful for alice@example.com using scrypt.
+2025-11-03 23:05:45,452 [WARNING] Login failed for alice@example.com: wrong password.
+2025-11-03 23:05:45,454 [WARNING] Login failed for charlie@example.com: User not found.
+2025-11-03 23:05:45,825 [INFO] User 'long@example.com' registered with scrypt.
+2025-11-03 23:05:46,163 [INFO] Login successful for long@example.com using scrypt.
+2025-11-03 23:05:46,538 [INFO] User 'empty@example.com' registered with scrypt.
+2025-11-03 23:05:46,542 [INFO] Listed 4 users.
+2025-11-03 23:20:26,339 [INFO] Listed 4 users.
+2025-11-03 23:20:48,813 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-03 23:21:07,873 [INFO] Listed 0 users.
+2025-11-03 23:25:19,278 [INFO] User 'Prashantshri399@gmail.com' registered with scrypt.
+2025-11-03 23:25:52,909 [INFO] User 'prashant.shekhar2022@vitstudent.ac.in' registered with pbkdf2.
+2025-11-03 23:26:27,158 [INFO] User 'shivani.pandey2022@vitstudent.ac.in' registered with pbkdf2.
+2025-11-03 23:26:58,265 [INFO] User 'srivatsa.davaluri2022@vitstudent.ac.in' registered with scrypt.
+2025-11-03 23:27:20,257 [INFO] Listed 4 users.
+2025-11-04 03:24:26,636 [INFO] Logger initialised.
+2025-11-04 03:24:26,771 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-04 03:24:26,773 [INFO] System initialised using MongoDB backend.
+2025-11-04 03:27:15,050 [INFO] Logger initialised.
+2025-11-04 03:27:19,664 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-04 03:27:19,666 [INFO] System initialised using MongoDB backend.
+2025-11-04 03:30:10,458 [INFO] User 'aryan.chaurasia@gmail.com' registered with pbkdf2.
+2025-11-04 03:30:16,742 [INFO] Login successful for aryan.chaurasia@gmail.com using pbkdf2.
