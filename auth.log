@@ -68,3 +68,18 @@
 2025-11-04 03:27:19,666 [INFO] System initialised using MongoDB backend.
 2025-11-04 03:30:10,458 [INFO] User 'aryan.chaurasia@gmail.com' registered with pbkdf2.
 2025-11-04 03:30:16,742 [INFO] Login successful for aryan.chaurasia@gmail.com using pbkdf2.
+2025-11-05 23:39:43,261 [INFO] Logger initialised.
+2025-11-05 23:39:47,627 [INFO] Connected to MongoDB at mongodb://localhost:27017/
+2025-11-05 23:39:47,629 [INFO] System initialised using MongoDB backend.
+2025-11-05 23:40:02,896 [INFO] Listed 5 users.
+2025-11-05 23:40:43,355 [INFO] Cleared all users from MongoDB collection 'users'.
+2025-11-05 23:40:43,824 [INFO] User 'alice@example.com' registered with scrypt.
+2025-11-05 23:40:44,189 [INFO] User 'bob@example.com' registered with pbkdf2.
+2025-11-05 23:40:44,665 [WARNING] Failed to register 'alice@example.com': Email already exists
+2025-11-05 23:40:45,138 [INFO] Login successful for alice@example.com using scrypt.
+2025-11-05 23:40:45,584 [WARNING] Login failed for alice@example.com: wrong password.
+2025-11-05 23:40:45,587 [WARNING] Login failed for charlie@example.com: User not found.
+2025-11-05 23:40:46,049 [INFO] User 'long@example.com' registered with scrypt.
+2025-11-05 23:40:46,501 [INFO] Login successful for long@example.com using scrypt.
+2025-11-05 23:40:46,957 [INFO] User 'empty@example.com' registered with scrypt.
+2025-11-05 23:40:46,962 [INFO] Listed 4 users.
